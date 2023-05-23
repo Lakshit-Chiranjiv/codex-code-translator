@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Lakshit-Chiranjiv/codex-code-translator/issues"
   },
-  "homepage": "https://github.com/Lakshit-Chiranjiv/codex-code-translator#readme"
+  "homepage": "https://github.com/Lakshit-Chiranjiv/codex-code-translator#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
 }
