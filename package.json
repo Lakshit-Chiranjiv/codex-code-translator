@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Lakshit-Chiranjiv/codex-code-translator#readme",
   "dependencies": {
-    "axios": "^1.4.0"
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3"
   }
 }
